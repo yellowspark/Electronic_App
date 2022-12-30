@@ -1,0 +1,86 @@
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\appsettings.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.exe
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.deps.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.runtimeconfig.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.pdb
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\DnsClient.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.AssemblyReference.cache
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.AssemblyInfoInputs.cache
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.AssemblyInfo.cs
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.CoreCompileInputs.cache
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\scopedcss\bundle\ElectronicApp.styles.css
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.CopyComplete
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\refint\ElectronicApp.dll
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.pdb
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.genruntimeconfig.cache
+C:\Users\2134422\source\repos\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ref\ElectronicApp.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\appsettings.Development.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\appsettings.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.exe
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.deps.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.runtimeconfig.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\ElectronicApp.pdb
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\DnsClient.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\SharpCompress.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.AssemblyReference.cache
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.AssemblyInfoInputs.cache
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.AssemblyInfo.cs
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.CoreCompileInputs.cache
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.MvcApplicationPartsAssemblyInfo.cs
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.MvcApplicationPartsAssemblyInfo.cache
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\scopedcss\bundle\ElectronicApp.styles.css
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.csproj.CopyComplete
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\refint\ElectronicApp.dll
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.pdb
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ElectronicApp.genruntimeconfig.cache
+D:\INFO-TECH Devish\WebApi Projet\ElectronicApp\ElectronicApp\obj\Debug\net6.0\ref\ElectronicApp.dll

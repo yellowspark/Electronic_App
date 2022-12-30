@@ -1,0 +1,56 @@
+<!-- <p>login works!</p> -->
+<body>
+<div class="container">
+<form class="border p-3 rounded" (ngSubmit)="loginSubmitted()" [formGroup]="loginForm">
+    <div class="row g-0">
+        <div class="col text-center p-2 mb-3 bg-light">
+            <span class="fs-3">Login</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col mb-3">
+            <label for="username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="username" formControlName="username"> 
+            <div class="form-text text-danger" *ngIf="UserName.errors?.['required'] && (UserName.touched || UserName.dirty)">
+                Username is required
+            </div>
+            <div class="form-text text-danger" *ngIf="UserName.errors?.['minlength'] || UserName.errors?.['maxlength']">
+                Username should be atleast 6 and at the max 15 character long.
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="text" class="form-control" id="password" formControlName="password"> 
+            <div class="form-text text-danger" *ngIf="Password.errors?.['required'] && (Password.touched || Password.dirty)">
+                Password is required
+            </div>
+            <div class="form-text text-danger" *ngIf="Password.errors?.['minlength'] || Password.errors?.['maxlength']">
+                Password should be atleast 6 and at the max 15 character long.
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 offset-3">
+            <div class="d-grid">
+
+                <button type="submit" [disabled]="loginForm.invalid" class="btn btn-primary">Login</button>
+
+                <div class="text-center text-lg-start mt-4 pt-2">
+
+                    <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="Register"
+                        class="link-danger">Register</a></p>
+
+                        <!-- <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="HCO"
+                            class="link-danger">Register</a></p> -->
+                        
+                  </div>
+
+                <!-- <a href="Register"><button class="button"> Register</button></a> -->
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+</body>

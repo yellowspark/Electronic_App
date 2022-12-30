@@ -1,0 +1,36 @@
+<!-- <p>dashboard works!</p> -->
+
+<app-nav></app-nav>
+<div class="container my-4">
+
+    <table class="table">
+
+      <thead>
+        <tr>
+          <th scope="col">Organization Name</th>
+          <th scope="col">E-mail</th>
+          <th scope="col">Primary Contact</th>
+          <th scope="col">PrimaryMobile</th>
+          <th scope="col">Action</th>
+        </tr>
+      </thead>
+
+      <tbody class="bg-warning" *ngFor="let item of hcoData">
+        <tr>
+            <!-- <th scope="row"></th> -->
+            <td>{{item.organizationName}}</td>
+            <td>{{item.emailAddress}}</td>
+            <td>{{item.primaryContactPerson}}</td>
+            <td>{{item.primaryContactPersonMobile}}</td>
+            <td>
+              <!-- <button type="button" class="btn btn-primary bg-dark"><a routerLink="/UpdateDashboard/{{item.id}}">Edit</a></button> -->
+                <a routerLink="/UpdateDashboard/{{item.id}}"><i class="fa fa-edit"></i></a>
+            </td>
+        </tr>
+      </tbody>    
+    </table> 
+    <div class="text-center">
+      <button type="button" class="btn btn-primary bg-light"><a href="HCO">Add Fields</a></button>
+    </div>
+</div>
+

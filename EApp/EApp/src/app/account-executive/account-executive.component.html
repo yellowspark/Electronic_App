@@ -1,0 +1,44 @@
+
+<app-nav></app-nav>
+<div class="container my-4">
+    <h3 class="text-center mb-5">Account Executive Dashboard</h3>
+
+    <table class="table">
+
+      <thead>
+        <tr>
+          <th scope="col">Organization Name</th>
+          <th scope="col">E-mail</th>
+          <th scope="col">Primary Contact</th>
+          <th scope="col">Primary Mobile</th>
+          <th scope="col">Action</th>
+          <th scope="col">View</th>
+        </tr>
+      </thead>
+
+      <tbody class="bg-light" *ngFor="let item of userData">
+        <tr>
+            <!-- <th scope="row"></th> -->
+            <td>{{item.organizationName}}</td>
+            <td>{{item.emailAddress}}</td>
+            <td>{{item.primaryContactPerson}}</td>
+            <td>{{item.primaryContactPersonMobile}}</td>
+            <td>
+              <!-- <button type="button" class="btn btn-primary bg-dark"><a routerLink="/UpdateDashboard/{{item.id}}">Edit</a></button> -->
+                <!-- <a routerLink="/UpdateDashboard/{{item.id}}"><i class="fa fa-edit"></i></a> -->
+                <button type="button" class="btn btn-primary bg-success" (click)="approve(item.id,'Approved')">Approve</button>
+                &nbsp;
+                <button type="button" class="btn btn-primary bg-danger" (click)="approve(item.id,'Rejected')" >Reject</button>
+            </td>
+
+            <td><a routerLink="/View/{{item.id}}"><i class="fa fa-eye" aria-hidden="true"></i></a></td>
+        </tr>
+      </tbody>    
+    </table> 
+
+    <!-- <div class="text-center">
+      <button type="button" class="btn btn-primary bg-light"><a href="HCO">Add Fields</a></button>
+    </div> -->
+
+</div>
+
