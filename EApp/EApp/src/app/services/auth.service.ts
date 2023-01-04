@@ -54,6 +54,7 @@ export class AuthService {
       secondaryContactPerson:hcouser[10],
       secondaryContactPersonMobile:hcouser[11],
       programsToBeAccredited:hcouser[12],
+      status:hcouser[13],
       createBy: localStorage.getItem('username')
       
     });
